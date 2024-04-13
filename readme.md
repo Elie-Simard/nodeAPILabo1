@@ -1,6 +1,10 @@
 # Projet Backend Mean - Version de Base
 
-Ce projet est une version de base du backend pour le projet Mean. Il contient les fichiers nécessaires pour démarrer le développement.
+Ce projet est un projet de base pour le backend de l'application de gestion de stock.
+
+C'est un apio RESTful qui utilise Express.js et MongoDB.
+
+Il contient les fonctionnalités de base pour la gestion des catégories et des produits.
 
 ## Présentation des fonctionnalités que j'ai implémentées
 
@@ -27,6 +31,7 @@ Fonctions personnalisées :
    -> /produitRoutes/ ligne 140
 
 ## Exécution des tests
+![Screenshot 2024-04-13 at 1 14 35 PM](https://github.com/Elie-Simard/nodeAPILabo1/assets/104814268/30eefb44-7449-4780-8858-9e1c94e65f59)
 
 J'ai utilisé chai pour les test. Vous pouvez exécuter les tests en utilisant la commande `npm test`. N'hésitez pas à exécuter cette commande plusieurs fois pour vérifier le bon fonctionnement de l'application.
 
