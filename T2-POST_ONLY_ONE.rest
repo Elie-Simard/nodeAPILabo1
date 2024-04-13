@@ -1,0 +1,7 @@
+POST http://localhost:3000/categorie HTTP/1.1
+content-type: application/json
+
+{
+    "code":"XYZ",
+    "designation": "TELECOM987"
+}

@@ -1,0 +1,1 @@
+DELETE http://localhost:3000/categorie/65af0d2e64755a7bb4f36756
